@@ -69,3 +69,7 @@ nohup.out
 
 # Jupyter
 .ipynb_checkpoints/
+.venv-neurovla/
+
+
+**/Pretrained_models/**

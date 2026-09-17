@@ -1,9 +1,12 @@
+
 <div align="center">
 
 # NeuroVLA: A Brain-like Embodied Intelligence for Fluid and Fast Reflexive Robotics Control
 
 **Weiyu Guo**<sup>1,4</sup>, **He Zhang**<sup>1,4</sup>, **Pengteng Li**<sup>1,4</sup>, **Tiefu Cai**<sup>1,4</sup>, **Ziyang Chen**<sup>1,4</sup>, **Yandong Guo**<sup>1,4</sup>, <br>
-**He Xiao**<sup>4</sup>, **Yongkui Yang**<sup>3</sup>\*, **Ying Sun**<sup>1,2</sup>\*, **Hui Xiong**<sup>1,2</sup>\*
+**He Xiao**<sup>4</sup>, **Yongkui Yang**<sup>3</sup>\*, **Ying Sun**<s
+
+up>1,2</s>\*, **Hui Xiong**<sup>1,2</sup>\*
 
 <sup>1</sup>The Thrust of Artificial Intelligence, HKUST (Guangzhou), China  
 <sup>2</sup>The Department of CSE, HKUST, Hong Kong, China  
@@ -46,6 +49,16 @@
 </div>
 <br>
 
+
+## 📁 Project Structure (中文整理)
+
+仓库结构、训练/评测/部署入口、配置说明与已知待整理项见：
+
+**[docs/PROJECT_OVERVIEW.md](docs/PROJECT_OVERVIEW.md)**
+
+Jetson Thor 部署检查清单：**[docs/DEPLOYMENT_CHECKLIST_THOR.md](docs/DEPLOYMENT_CHECKLIST_THOR.md)**
+
+---
 
 ## 📖 Overview
 
